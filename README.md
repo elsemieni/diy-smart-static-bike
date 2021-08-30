@@ -13,7 +13,7 @@ More than a thousand words, a short video might explain anything (link to youtub
 
 ## Keynote:
 
-This project will be featured in ALMA Symposium 2021, you can check the slides here: (WIP)
+This project will be featured in ALMA Symposium 2021, you can check the slides at slide.pdf ! 
 
 ## Requirements:
 
